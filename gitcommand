@@ -24,3 +24,6 @@ sudo apt-get install build-essential libssl-dve
 9 :-  git config --global user.name "Your Username"
 10 :- git revert HEAD~
 11 :- git checkout filename
+12 :- git merge summary
+  its is used to merge file with the master branch
+  

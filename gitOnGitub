@@ -1,7 +1,14 @@
 step 1 :- Login to your account
+    At the starting point we have to login with our github username and password.
 
 step 2 :- Create Repository
+    At the stage of the new Project we have to make new Repository in our profile.
 
 step 3 :- git remote add origin "url"
+    At the first time to connect our current folder with the repository on the github with respective folder we have to remote with the http url.
 
 step 4 :- git push origin master
+    After commit the file we can push the file with above command
+
+    https://github.com/DhiralKaniya/github-tutorial
+    https://github.com/vamsi240022/vamsi.git
