@@ -1,0 +1,7 @@
+step 1 :- Login to your account
+
+step 2 :- Create Repository
+
+step 3 :- git remote add origin "url"
+
+step 4 :- git push origin master

@@ -1,0 +1,26 @@
+
+*TO install git in your system *
+
+*for Ubantu 16.04*
+
+sudo apt-get install git
+sudo apt-get install build-essential libssl-dve
+
+1 :-  git status
+  Git status is used to know current file status.
+  it is used to know committed file, new file and updating files in the repository.
+2 :-  git add filename
+  Git add is used to add file in the repository.
+3 :-  git add .
+  Git add . is used to add all file in the respository
+4 :-  git commit -m "Comments"
+  git commit is used to commit file on repository with different kind of version.
+5 :-  git log
+  git lod is used know history for the particular repository,
+6 :-  git checkout -b summary
+  it is used to create branch under
+7 :-  git branch
+8 :-  git config --global user.email "Your Email Address"
+9 :-  git config --global user.name "Your Username"
+10 :- git revert HEAD~
+11 :- git checkout filename
